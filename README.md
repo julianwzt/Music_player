@@ -1,7 +1,3 @@
-Repo ini adalah pemutar musik berbasis web. Berikut README yang cocok untuk project ini:
-
----
-
 # 🎵 Music Player Web App
 
 Aplikasi **Pemutar Musik** sederhana berbasis web yang memungkinkan pengguna memutar file audio lokal dengan antarmuka menarik dan interaktif.
